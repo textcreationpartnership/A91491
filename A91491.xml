@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Part of a treatise vvritten by a Scotch gentleman, in the year 1645. Truly declaring (notwithstanding the lyings of wicked men) how graciously his Majesty hath governed the kingdoms of England Scotland and Ireland.</title>
+            <author>Scotch Gentleman.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91491</idno>
+            <idno type="STC">Wing P578</idno>
+            <idno type="STC">Thomason E467_30</idno>
+            <idno type="STC">ESTC R205296</idno>
+            <idno type="EEBO-CITATION">99864709</idno>
+            <idno type="PROQUEST">99864709</idno>
+            <idno type="VID">116941</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91491)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116941)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E467[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Part of a treatise vvritten by a Scotch gentleman, in the year 1645. Truly declaring (notwithstanding the lyings of wicked men) how graciously his Majesty hath governed the kingdoms of England Scotland and Ireland.</title>
+                  <author>Scotch Gentleman.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] ye 16th".</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monarchy --  Great Britain --  Early works to 1800.</term>
+               <term>Royalists --  England --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116941:1" rendition="simple:additions"/>
+            <p>Part of a TREATISE VVritten by a <hi>Scotch</hi> Gentleman, In the Year 1645. Truly Declaring (notwithſtanding the Lyings of wicked men) how Graci<g ref="char:EOLhyphen"/>ouſly his MAJESTY hath Go<g ref="char:EOLhyphen"/>verned the KINGDOMS of ENGLAND SCOTLAND AND <hi>IRELAND.</hi>
+            </p>
+            <p>Printed in the Year 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116941:2"/>
+            <pb n="1" facs="tcp:116941:2"/>
+            <head>Part of a <hi>Scotch</hi> Treatiſe, written by a Scotch Gentleman, in the Year 1645.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE incomming of the Scots gave occaſion and li<g ref="char:EOLhyphen"/>berty to divers of the Nobles of <hi>England</hi> (of whom ſome ſince have betrayed the Cauſe of God, and of his people, what by open warfare, and what by Clandeſtine undermining) to deſire of the King a Parliament, for the good of the Kingdom: The King then durſt not refuſe their demand, by reaſon of the Scots, more then the continuance of it, which he granted likewiſe thereafter for the ſame cauſe.</p>
+            <p>Then the King finding that the Parliament did not only croſſe, but quite ſpoil his deſigns, he plots with his Army which he had raiſed a<g ref="char:EOLhyphen"/>gainſt the Scots, to come and deſtroy the ſaid Parliament, and to take the ſpoil of London for their reward, but the buſineſſe being diſcovered, failed; beſides, they durſt not undertake, howſoever they had promi<g ref="char:EOLhyphen"/>ſed, for fear of the Scots, who were then ſo near.</p>
+            <p>The King continuing in his wonted courſes, after a little pauſe, tryes the Scots, if they will do the deed, and offers them for recompence not only the ſpoil of London, but alſo the four Counties next adjacent unto their Country, to be adjoyned hereafter to it, with Jewels of great va<g ref="char:EOLhyphen"/>lue in pawn for performance, if only they would be engaged in the bu<g ref="char:EOLhyphen"/>ſineſſe.</p>
+            <p>All theſe great offers could not make the Scots willing to give their
+<pb n="2" facs="tcp:116941:3"/>conſent in any kinde to this wickedneſſe; for they not only rejected the Kings offers, but alſo giveth notice of the plot to the Parliament, and to the City of London, that they might make their beſt uſe of it.</p>
+            <p>So you may ſee how that the Scots, under God, are the cauſe of the aſſembling of the Parliament, of the continuance of it, being aſſembled, and of the preſervation of it from totall deſtruction and ruine.</p>
+            <p>The King ſeeing that he was ſtopped by the Scots, firſt in their own Country, next in England, to carry on his great deſign, takes the Iriſh Papiſts by the hand, rather then be alwayes diſappointed, and they wil<g ref="char:EOLhyphen"/>lingly undertake to levy Arms for his ſervice, that is, for the Romiſh Cauſe, the Kings deſign being ſubſervient to the Romiſh Cauſe, although he abuſed, thinkes otherwiſe, and believes that Rome ſerveth to his pur<g ref="char:EOLhyphen"/>poſe; but to begin the work, they muſt make ſure all the Proteſtants, and if they cannot otherwaies, by murthering and maſſacring them, for they know them according to the principles of Religion and State, to be forward, either for the Covenanters of Scotland, or for the trouble<g ref="char:EOLhyphen"/>ſome Parliament of England, if not for both.</p>
+            <p>But the Iriſh neither would, nor durſt enter into any open action ſo long as the Scotch Army in England was on foot, therefore by all means it muſt be ſent home, and caſhiered; and to facilitate the buſineſſe, the Court Paraſites, inſtruments of iniquity, with their Emiſſaries, muſt raile, and ſpread abroad jealouſies of the Scots among the people of the Country and City, namely, in and about the Houſes of Parliament, who having not before their eyes the reall honeſty and integrity of the Scots, known by ſo many faithfull and loyall expreſſions, and not kee<g ref="char:EOLhyphen"/>ping in their minds the many good Offices done to them by the Scots, giveth, in ſillineſſe of minde, ear and place to the crafty tales and ap<g ref="char:EOLhyphen"/>prehenſions invented by the Agents of the common enemy, to bring them to confuſion and trouble.</p>
+            <p>So the plot taketh by the ſilly ones, and is ſet forward by the hid Malignants; yea, in a word, it is mannaged with ſuch addreſſe and ſucceſſe, that the Scots muſt go home, and till they had done it, there could be no quiet, but increaſe of jealouſies.</p>
+            <p>The Scots, although they were not acquainted with the height of miſ<g ref="char:EOLhyphen"/>chief that was intended againſt the Church and State in theſe Domini<g ref="char:EOLhyphen"/>ons, by the common enemy, nor with the wayes of it, yet albeit they thought it very dangerous, after ſo many attempts of evill doing by the enemy, to retire them from England, nor as yet well ſettled, and to
+<pb n="3" facs="tcp:116941:3"/>caſhier their Army, remitting the event of things to God, reſolved to return home, and to diſmiſſe their Army, and ſo make known unto all the world their candor and integrity, and to take away all jealouſies both from the King, and from England, not failing in the leaſt circum<g ref="char:EOLhyphen"/>ſtance, yea not of the day.</p>
+            <p>Well, the King having gained this point, to ſend home the Scots, and to make them lay down their Arms, reſolveth to follow them in<g ref="char:EOLhyphen"/>to Scotland, and to try once more to draw them to his deſign, no per<g ref="char:EOLunhyphen"/>ſwaſion being able to ſtay or ſtop his voyage, he goeth in haſte from London, and overtaketh the Scots as they were upon their removall from Newcaſtle for Scotland; he vieweth their Army by the way, and talketh with the prime Officers thereof: he giveth order to ſome of the good Phyſitians about him to feele the pulſe of the Scots ſoftly, but they found the Scots pulſe did not beat as they could have wiſhed: He goeth on in his journey to Scotland, whither he is no ſooner arrived, but he puts another deſign on foot, premeditated with many more be<g ref="char:EOLhyphen"/>fore, for it is the cuſtom of the wiſe Court to have at one and the ſame time divers undertakings in deſign, of which it is a very hard matter if one or other do not take effect, yea they have found it but too true, to our wofull experience, that many have taken effect, and that not of the leſſer ones; wherefore the Court will never ceaſe to deviſe and invent enterpriſes.</p>
+            <p>The plot then ſet on foot by the King in Scotland, was to make a con<g ref="char:EOLhyphen"/>ſiderable party there for his ends, and to make the buſineſſe there more facile, he reſolveth to make ſure the chief men of Scotland, who were like either to ſtop the deſign, or not farther it: But this plot is alſo diſ<g ref="char:EOLhyphen"/>covered, and ſo it failed. The next recourſe was to the Iriſh Papiſts his good friends, unto whom from Scotland a Commiſſion is diſpatched under the great Seal (which Seal was at that inſtant time in the Kings own cuſtody) of that Kingdom, to haſten according to the former A<g ref="char:EOLhyphen"/>greement the raiſing of the Iriſh in Arms; who no ſooner receive this new Order, but they break out, and at the firſt beginning of their Re<g ref="char:EOLhyphen"/>bellion, declare that they have no ill will againſt any Scots in Ireland, for they were afraid of the Scots going over to the help of their Coun<g ref="char:EOLhyphen"/>try men, and ſo they would be ſtopped to go on with their work; but their ſpleen was againſt the Engliſh Proteſtants, who were friends to that wicked Parliament in England, ſo untoward to the good King, and ſo adverſe to their Catholique Cauſe.</p>
+            <pb n="4" facs="tcp:116941:4"/>
+            <p>This Declaration of the Iriſh did not (although in favour of their countrey men) hinder the Scots to offer their preſent ſervice for the repreſſing of the Rebellion, before things grew worſe: The King fair<g ref="char:EOLhyphen"/>ly refuſeth the offer, and anſwering with Verball thanks ſaid. That he neither could, nor would do any thing in the buſineſſe without the ad<g ref="char:EOLhyphen"/>vice, and aſſiſtance from the Parliament now on foot in England, whereunto he was to repair in all haſte; ſo he leaveth Scotland, ſaying, That every day he ſtayed there, was the loſſe of a County to him; he commeth to London a little before Chriſtmas, the Rebellion having begun in Ireland in October before, but he goes very ſeldom to the Par<g ref="char:EOLhyphen"/>liament, and when he goeth thither, he ſaith nothing concerning the I<g ref="char:EOLhyphen"/>riſh Rebellion, till by importunity he was conſtrained to it, and then what he ſaith, was little, cold, and ambiguous; and when the Scots by their Commiſſioners, who had followed him from Scotland hither, did offer him again a conſiderable help of ten thouſand men; things were ſo carryed both in Councel and Parliament by the corrupt and igno<g ref="char:EOLhyphen"/>rant party then; that the Scots were delayed from day to day by one ſhift or other, for a long ſpace, before conditions could be agreed upon with them for the ſending of their help into Ireland: and it was a lon<g ref="char:EOLhyphen"/>ger time after the agreement, before things could be furniſhed unto them for their voyage.</p>
+            <p>By thoſe means the Rebels had to do with leſſe oppoſition, and con<g ref="char:EOLhyphen"/>ſequently, with leſſe difficulty carried on their barbarous work of burning, ſpoyling, and maſſacring innocent people of all ranks and condition, without regard to ſex<g ref="char:punc">▪</g> or age.</p>
+            <p>The Scots are no ſooner gone for Ireland, but they aſſiſt their friends with ſuch affection; and ſucceſſe, that after ſome skirmiſhes, and en<g ref="char:EOLhyphen"/>counters with the Rebels, the North countrey of Ireland, whereunto their help was particularly aſſigned, became pretty well cleared of the Rebels, although much waſted and ſpoiled by them.</p>
+            <p>In this courſe hath the Scots continued to this day, conſtantly oppo<g ref="char:EOLhyphen"/>ſing theſe bloody wretches, notwithſtanding the change that hath fallen in the South part of that Kingdom by the Treachery of thoſe whom the Parliament imployed and truſted to; then when the King made a Ceſ<g ref="char:EOLhyphen"/>ſation with theſe barberous Canabals, the Scots reſolutely declared againſt it, &amp; have manfully oppoſed it to this day, without which oppo<g ref="char:EOLhyphen"/>ſition of the Scots, it had been received every where in Ireland, and the Rebels then having nothing to do at home had come hither with Bands and Troops into this Iſland.</p>
+            <pb n="5" facs="tcp:116941:4"/>
+            <p>Thus did, and ſtill do the Scots purſue their point, notwithſtanding all the hardſhip they have ſuffered, and yet ſuffer in the ſervice; partly by reaſon of the great troubles here, of the Parliaments not being able to ſupply their friends as they would, and as they need; partly, by the negligence and unfaithfulneſſe of thoſe who have been imployed by the Parliament, and intruſted to have a care of ſupplying this need, which hath been ſo great, that the Scots Army in Ireland had abſolutely ſtar<g ref="char:EOLhyphen"/>ved for cold and hunger, if they had not been helped from Scotland in a high meaſure.</p>
+            <p>To return into England, the miſſed King having left the Parliament, accompanied, or at leaſt followed by numbers of men of divers degrees, Traytors to God, and their countrey, namely by thoſe double Traytors, who were Members of the Houſes of Parliament; for they not only have been diſhoneſt to the Church and State, whereof they are both Mem<g ref="char:EOLhyphen"/>bers and children, but they have betrayed the truſt, wherewith they were intruſted in both, by the aſſiſtance of which, he ſets his deſign on foot to make open war againſt the Parliament (although under a hid noti<g ref="char:EOLhyphen"/>on) to deſtroy it, all other deviſes and plots contrived by him and his having failed, as we have ſeen.</p>
+            <p>Upon this, the Scots in their reſpect to the King, love to their Bre<g ref="char:EOLhyphen"/>thren in England, and above all, in their affection to the Cauſe of the Church of God, ſend Commiſſioners to the King, and from him, to the Parliament, as occaſion ſhould ſerve; they found the King at <hi>Yorke,</hi> where he was pulling his ſword out of his ſheath with all his might, and ſharpening it in all haſte, which God in his judgement hath ſuffered him to thruſt in the Bowels of ſo many thouſands of his people here, ſo unnaturally, and barbarouſly, not only afar off, by not ſtopping it by connivance, or by Commiſſion to his Agents and Inſtruments, as in Ireland and Scotland, but being preſent in perſon, and taking pleaſure in doing of it in his own ſight, and ſeeing it done.</p>
+            <p>In this place I do affirm, that there hath been more Chriſtian blood ſhed in theſe latter years, under the end of King <hi>James,</hi> and King <hi>Charles</hi> his reign, by their Commiſſions, Approbations, Connivances, and not forbidding, what at home, and what abroad, (all which upon the matter they might have ſtopped if it had been their pleaſure) then were in the time of the ten <hi>Roman</hi> perſecutions. God turn the Kings heart towards him firſt, other wayes he will never turn it towards his people.</p>
+            <p>The Scots, as we were ſaying, ſeed to him, to deſire him to leave off
+<pb n="6" facs="tcp:116941:5"/>the deſign of imbroyling himſelf and the people in a civill war in this kingdom of England; withall, to offer him their utmoſt ſervice of Medi<g ref="char:EOLhyphen"/>ation and Interceſſion, for the taking away of all miſtakes, and ſmooth<g ref="char:EOLhyphen"/>ing of things in a faire way betwixt him and the Par. The miſled King reſolved to go on in evil courſes, not only neglects the reſpective and hearty offer of the Scots, but ſends them home, not ſuffering them to come unto the Parliament, according to their Order and deſire, which was, to try all fair means for preventing a war in England, and to ſtop the maſſacres in Ireland.</p>
+            <p>The King having thus diſmiſſed the Scots, goes to his work, which having overcome ſome rubs at the firſt, he carryeth on apace; for having gathered together conſiderable forces at <hi>Shrewsbury,</hi> from thence with his Army marcheth towards London, notwithſtanding the Parliaments Army lay as it were in his way, who met with him at <hi>Edgehill,</hi> and (contrary to his expectation) fights with him; he after the battell ha<g ref="char:EOLhyphen"/>ving recollected the remnant of his men, although he had the worſe, continues his deſign to London, and drew very neer unto it, but being by ſtrong hand conſtrained to retire, he goeth to <hi>Oxford.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
